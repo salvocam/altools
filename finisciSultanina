@@ -1,0 +1,6 @@
+./bin/pileupStatistics/Debug/pileupStatistics /media/disk2/ProgettoVite/sultanina/alignmentOutput/sam/output_pileup_forPolymorphisms  /media/disk2/ProgettoVite/sultanina/alignmentOutput/sam/output_pileup_forPolymorphisms_statistics /media/disk2/ProgettoVite/sultanina/pileupFolder_forSNP/ 0 20 0.2 81 41 41 0.05 81 41
+cd /media/disk2/ProgettoVite/sultanina/pileupFolder_forSNP
+python varscanStat.py varscanPileup 81 41
+cd /home/salvo/Altools
+./bin/variantAnalyzer/Debug/variantAnalyzer /media/disk2/ProgettoVite/sultanina/pileupFolder_forSNP/varscanPileup /media/disk2/ProgettoVite/anootationAndFasta/pinotAnnotation.gff3 /media/disk2/ProgettoVite/anootationAndFasta/sequences/ 0 2 0.05 0.05 &
+

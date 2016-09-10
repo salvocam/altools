@@ -1,0 +1,7 @@
+./bin/coverageAnalyzer/Debug/coverageAnalyzer /media/disk2/ProgettoVite/bovale/pileupFolder_forCNV/pileup/ 0 1000 0 1 /media/disk2/ProgettoVite/bovale/coverageAnalyzer/ /media/disk2/ProgettoVite/pinot/pileupFolder/pileup/ 500 0 &
+./bin/coverageAnalyzer/Debug/coverageAnalyzer /media/disk2/ProgettoVite/carignano/pileupFolder_forCNV/pileup/ 0 1000 0 1 /media/disk2/ProgettoVite/carignano/coverageAnalyzer/ /media/disk2/ProgettoVite/pinot/pileupFolder/pileup/ 500 0 &
+./bin/coverageAnalyzer/Debug/coverageAnalyzer /media/disk2/ProgettoVite/cannonau/pileupFolder_forCNV/pileup/ 0 1000 0 1 /media/disk2/ProgettoVite/cannonau/coverageAnalyzer/ /media/disk2/ProgettoVite/pinot/pileupFolder/pileup/ 500 0 &
+./bin/coverageAnalyzer/Debug/coverageAnalyzer /media/disk2/ProgettoVite/vermentino/pileupFolder_forCNV/pileup/ 0 1000 0 1 /media/disk2/ProgettoVite/vermentino/coverageAnalyzer/ /media/disk2/ProgettoVite/pinot/pileupFolder/pileup/ 500 0 &
+./bin/coverageAnalyzer/Debug/coverageAnalyzer /media/disk2/ProgettoVite/Gewurztraminer/pileupFolder_forCNV/pileup/ 0 1000 0 1 /media/disk2/ProgettoVite/Gewurztraminer/coverageAnalyzer/ /media/disk2/ProgettoVite/pinot/pileupFolder/pileup/ 500 0 &
+./bin/coverageAnalyzer/Debug/coverageAnalyzer /media/disk2/ProgettoVite/Riesling/pileupFolder_forCNV/pileup/ 0 1000 0 1 /media/disk2/ProgettoVite/Riesling/coverageAnalyzer/ /media/disk2/ProgettoVite/pinot/pileupFolder/pileup/ 500 0 &
+

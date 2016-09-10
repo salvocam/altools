@@ -1,0 +1,19 @@
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/bovale/pileupFolder_forSNP/pileup/ /media/disk2/ProgettoVite/bovale/slidingAnalysis_forSNPs/ 20000 20000 0 0 
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/bovale/pileupFolder_forCNV/pileup/ /media/disk2/ProgettoVite/bovale/slidingAnalysis_forCNV/ 20000 20000 0 0 
+
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/carignano/pileupFolder_forSNP/pileup/ /media/disk2/ProgettoVite/carignano/slidingAnalysis_forSNPs/ 20000 20000 0 0 
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/carignano/pileupFolder_forCNV/pileup/ /media/disk2/ProgettoVite/carignano/slidingAnalysis_forCNV/ 20000 20000 0 0 
+
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/cannonau/pileupFolder_forSNP/pileup/ /media/disk2/ProgettoVite/cannonau/slidingAnalysis_forSNPs/ 20000 20000 0 0 
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/cannonau/pileupFolder_forCNV/pileup/ /media/disk2/ProgettoVite/cannonau/slidingAnalysis_forCNV/ 20000 20000 0 0 
+
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/vermentino/pileupFolder_forSNP/pileup/ /media/disk2/ProgettoVite/vermentino/slidingAnalysis_forSNPs/ 20000 20000 0 0 
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/vermentino/pileupFolder_forCNV/pileup/ /media/disk2/ProgettoVite/vermentino/slidingAnalysis_forCNV/ 20000 20000 0 0 
+
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/Gewurztraminer/pileupFolder_forSNP/pileup/ /media/disk2/ProgettoVite/Gewurztraminer/slidingAnalysis_forSNPs/ 20000 20000 0 0 
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/Gewurztraminer/pileupFolder_forCNV/pileup/ /media/disk2/ProgettoVite/Gewurztraminer/slidingAnalysis_forCNV/ 20000 20000 0 0 
+
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/Riesling/pileupFolder_forSNP/pileup/ /media/disk2/ProgettoVite/Riesling/slidingAnalysis_forSNPs/ 20000 20000 0 0 
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/Riesling/pileupFolder_forCNV/pileup/ /media/disk2/ProgettoVite/Riesling/slidingAnalysis_forCNV/ 20000 20000 0 0 
+
+

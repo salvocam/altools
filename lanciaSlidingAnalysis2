@@ -1,0 +1,4 @@
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/tannat/pileupFolder_forSNP/pileup/ /media/disk2/ProgettoVite/tannat/slidingAnalysis_forSNPs/ 20000 20000 0 0 
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/tannat/pileupFolder_forCNV/pileup/ /media/disk2/ProgettoVite/tannat/slidingAnalysis_forCNV/ 20000 20000 0 0 
+./bin/slidingAnalysis/Debug/slidingAnalysis /media/disk2/ProgettoVite/sultanina/pileupFolder_forCNV/pileup/ /media/disk2/ProgettoVite/sultanina/slidingAnalysis_forCNV/ 20000 20000 0 0 
+
