@@ -1,7 +1,0 @@
-./bin/variantAnalyzer/Debug/variantAnalyzer /media/disk2/ProgettoVite/bovale/pileupFolder_forSNP/varscanPileup /media/disk2/ProgettoVite/anootationAndFasta/pinotAnnotation.gff3 /media/disk2/ProgettoVite/anootationAndFasta/sequences/ 0 2 0.05 0.05 &
-./bin/variantAnalyzer/Debug/variantAnalyzer /media/disk2/ProgettoVite/carignano/pileupFolder_forSNP/varscanPileup /media/disk2/ProgettoVite/anootationAndFasta/pinotAnnotation.gff3 /media/disk2/ProgettoVite/anootationAndFasta/sequences/ 0 2 0.05 0.05 &
-./bin/variantAnalyzer/Debug/variantAnalyzer /media/disk2/ProgettoVite/cannonau/pileupFolder_forSNP/varscanPileup /media/disk2/ProgettoVite/anootationAndFasta/pinotAnnotation.gff3 /media/disk2/ProgettoVite/anootationAndFasta/sequences/ 0 2 0.05 0.05 &
-./bin/variantAnalyzer/Debug/variantAnalyzer /media/disk2/ProgettoVite/vermentino/pileupFolder_forSNP/varscanPileup /media/disk2/ProgettoVite/anootationAndFasta/pinotAnnotation.gff3 /media/disk2/ProgettoVite/anootationAndFasta/sequences/ 0 2 0.05 0.05 &
-./bin/variantAnalyzer/Debug/variantAnalyzer /media/disk2/ProgettoVite/Gewurztraminer/pileupFolder_forSNP/varscanPileup /media/disk2/ProgettoVite/anootationAndFasta/pinotAnnotation.gff3 /media/disk2/ProgettoVite/anootationAndFasta/sequences/ 0 2 0.05 0.05 &
-./bin/variantAnalyzer/Debug/variantAnalyzer /media/disk2/ProgettoVite/Riesling/pileupFolder_forSNP/varscanPileup /media/disk2/ProgettoVite/anootationAndFasta/pinotAnnotation.gff3 /media/disk2/ProgettoVite/anootationAndFasta/sequences/ 0 2 0.05 0.05 &
-
