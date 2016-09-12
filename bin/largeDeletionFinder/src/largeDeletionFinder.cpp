@@ -361,7 +361,7 @@ void collapseCloseDeletions(indelFormat array[1000000], int arrayLength)
     
     
     cout << "Sorting the bam file....." << endl;
-    command = "samtools sort " + inputDirectory + "output.bam " + inputDirectory + "output_sorted";
+    command = "samtools sort " + inputDirectory + "-o output_sorted " + inputDirectory + "output.bam";
     cout << "Executing: " << endl;
     cout << command << endl;
     cout.flush();
